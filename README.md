@@ -14,7 +14,7 @@ I'm a passionate **Frontend Developer** with **2.6 years of professional experie
   - Collaborating with cross-functional teams to deliver product features  
   - Leading UI enhancements and design consistency across pages
 
-- 🧑‍💻 **Systems Engineer / Frontend Developer**  
+- 🧑‍💻 **Systems Engineer | Frontend Developer**  
   **Infosys Ltd** | *Dec 2022 – May 2025*  
   - Built and maintained UI features using React.js, JavaScript, HTML5, CSS3  
   - Created reusable components and handled routing, form validation, and state management  
