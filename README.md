@@ -1,14 +1,14 @@
 ### 👋 Hi there, I'm Deepshikha — Frontend Developer
 
 I'm a passionate **Frontend Developer** with **2.6 years of professional experience** building user-focused, responsive, and scalable web applications using
-**React.js**, **JavaScript**, **HTML**, **CSS**, and modern tools.
+**React.js**, **JavaScript**, **HTML**, **CSS**, **TypeScript** and modern tools.
 
 ---
 
 ### 💼 Work Experience
 
 - 🏢 **Frontend Developer**  
-  **Cintal Technologies Pvt Ltd** | *June 2025 – Present*  
+  **Rockwell Automation** | *July 2025 – Present*  
   - Developing modular and scalable React components with clean architecture  
   - Integrating RESTful APIs and improving performance across the app  
   - Collaborating with cross-functional teams to deliver product features  
