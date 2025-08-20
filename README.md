@@ -1,6 +1,6 @@
-### 👋 Hi there, I'm Deepshikha — Frontend Developer
+### 👋 Hi there, I'm Deepshikha — Software Engineer 1
 
-I'm a passionate **Frontend Developer** with **2.6 years of professional experience** building user-focused, responsive, and scalable web applications using
+I'm a passionate **Frontend Developer** with **2.8 years of professional experience** building user-focused, responsive, and scalable web applications using
 **React.js**, **JavaScript**, **HTML**, **CSS**, **TypeScript** and modern tools.
 
 ---
