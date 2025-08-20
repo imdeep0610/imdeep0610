@@ -36,11 +36,11 @@ I'm a passionate **Frontend Developer** with **2.6 years of professional experie
 
 ### 🚀 Featured Projects
 
+- 🎓 **Ed-Tech Platform (Study Notion)**  
+  Performance-optimized learning dashboard with modular components and seamless state management.
+
 - 🧮 **Health Metrics Tracker**  
   A React app for tracking health data with charts, filters, sorting, and local storage support.
-
-- 🎓 **Ed-Tech Platform (LEX)**  
-  Performance-optimized learning dashboard with modular components and seamless state management.
 
 - 🎙️ **Speech Settings Panel**  
   A sleek, configurable UI for managing audio and text-to-speech settings with live preview.
